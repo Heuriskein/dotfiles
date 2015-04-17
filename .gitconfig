@@ -1,0 +1,11 @@
+[diff]
+        tool = vimdiff
+[difftool]
+        prompt = false
+[alias]
+        d = difftool
+[user]
+        name = Ryan Mills
+        email = hrakarth@gmail.com
+[push]
+        default = current
